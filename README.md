@@ -17,7 +17,7 @@
 
 - 👯 Worked as Freelancer and handled  Live Projects and build beutiful UI/ UX for client companies.
 
-- 🤝Build Coffee Website Project. [Coffee site](https://cerulean-starship-093f7d.netlify.app/)
+- 🤝Build Coffee Website Project. [hard-mist](https://cerulean-starship-093f7d.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://Rashmigautam16.github.io/](https://rashmigautam16.github.io/)
 
