@@ -17,9 +17,9 @@
 
 - 👯 Worked as Freelancer and handled  Live Projects and build beutiful UI/ UX for client companies.
 
-- 🤝Build Coffee Website Project. [Coffee site](https://coffee-site-bharat.netlify.app/)
+- 🤝Build Coffee Website Project. [Coffee site](https://cerulean-starship-093f7d.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://144bharat.github.io/](https://144bharat.github.io/)
+- 👨‍💻 All of my projects are available at [https://Rashmigautam16.github.io/](https://rashmigautam16.github.io/)
 
 - 💬 Ask me about C++, DSA, javascript, css, html,Jquery,react js
 
@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect me through:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/144bharat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat" height="30" width="40" /></a>
-<a href="https://instagram.com/bharat_4264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rashmi-gautam-476026236/" alt="Rashmi" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
