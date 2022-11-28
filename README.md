@@ -23,7 +23,7 @@
 
 - 💬 Ask me about C++, DSA, javascript, css, html,Jquery,react js
 
-- 📫 How to reach me 144bharatgautam@gmail.com
+- 📫 How to reach me rashmigaut99@gmail.com
 
 <h3 align="left">Connect me through:</h3>
 <p align="left">
