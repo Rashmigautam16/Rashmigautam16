@@ -38,7 +38,7 @@
 <h1>📊 GitHub Stats:</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashmigautam16&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rashmigautam16" /></p>
-
+<br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rashmigautam16&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rashmigautam16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmigautam16&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rashmigautam16" /></p>
