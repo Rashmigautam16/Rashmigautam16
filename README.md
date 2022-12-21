@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rashmi Gautam</h1>
 <h3 align="center">An ambitious, self-motivated, and inspiring full-stack web developer with considerable technical skills who possesses self-discipline, and a growth mindset.</h3>
-
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmigautam16" alt="rashmigautam16" /></a> </p>
 
 - 🔭 I’m currently working on [secret-discussion-5280](https://app.netlify.com/sites/tangerine-taiyaki-f7dece/overview)
@@ -38,7 +38,7 @@
 <h1>📊 GitHub Stats:</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashmigautam16&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rashmigautam16" /></p>
-
+<br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rashmigautam16&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rashmigautam16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmigautam16&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rashmigautam16" /></p>
