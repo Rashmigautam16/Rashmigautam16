@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Rashmi Gautam</h1>
 <h3 align="center">An ambitious, self-motivated, and inspiring full-stack web developer with considerable technical skills who possesses self-discipline, and a growth mindset.</h3>
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmigautam16" alt="rashmigautam16" /></a> </p>
 
 - 🔭 I’m currently working on [secret-discussion-5280](https://app.netlify.com/sites/tangerine-taiyaki-f7dece/overview)
