@@ -1,5 +1,5 @@
 ###
-<img align="left" alt="Coding" width="400" style="text-align:center" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="left" alt="Coding" width="400" style="text-align:center" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <h1 align="center">Hi 👋, I'm Rashmi Gautam</h1>
 <h3 align="center">An ambitious, self-motivated, and inspiring full-stack web developer with considerable technical skills who possesses self-discipline, and a growth mindset.</h3>
