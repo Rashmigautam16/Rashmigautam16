@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **React JS,JAVASCRIPT,CSS,HTML, React-Redux, TypeScript**
 
+- 📑 [Resume](https://github.com/Rashmigautam16/Rashmigautam16/files/10858765/fw19_0825-Rashmi-Gautam-Resume.pdf)
+
 - 📫 How to reach me **rashmigaut99@gmail.com**
 
 - ⚡ Fun fact **I like to dance**
