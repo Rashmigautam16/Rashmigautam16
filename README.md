@@ -1,20 +1,21 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Rashmi Gautam</h1>
-<h3 align="center">An ambitious, self-motivated, and inspiring full-stack web developer with considerable technical skills who possesses self-discipline, and a growth mindset.</h3>
+<h3 align="center">🎯 Software Engineer at Cicada Green Consultants (P) Ltd.</h3>
+<h3 align="center">💻 A dedicated, self-motivated, and skilled Full-Stack Web Developer with strong technical abilities, self-discipline, and a continuous growth mindset.</h3>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 - 🔭 I’m currently working on [secret-discussion-5280](https://app.netlify.com/sites/tangerine-taiyaki-f7dece/overview)
 
-- 🌱 I’m currently learning **React JS, React-Redux, TypeScript**
+- 🌱 I’m currently working on **React JS, React-Redux, TypeScript, NodeJs, Express, SQL**
 
 - 👯Worked as Team Leader on Collaborative Project [hard-mist-4433](https://cerulean-starship-093f7d.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://rashmigautam16.github.io/](https://rashmigautam16.github.io/)
 
-- 💬 Ask me about **React JS,JAVASCRIPT,CSS,HTML, React-Redux, TypeScript**
+- 💬 Ask me about **React JS, JAVASCRIPT, CSS, HTML, React-Redux, TypeScript, NodeJs, Express, SQL**
 
 - 📑 [Resume](https://github.com/Rashmigautam16/Rashmigautam16/files/10858765/fw19_0825-Rashmi-Gautam-Resume.pdf)
 
