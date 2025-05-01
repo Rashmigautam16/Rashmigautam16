@@ -7,10 +7,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🔭 I’m currently working on [secret-discussion-5280](https://app.netlify.com/sites/tangerine-taiyaki-f7dece/overview)
+- 🔭 I’m currently working on **Safe Passage International** Project
 
-- 🌱 I’m currently working on **React JS, React-Redux, TypeScript, NodeJs, Express, SQL**
-
+- 🌱 Tech Stack: **React.js | React-Redux | TypeScript | Node.js | Express | SQL**
+  
 - 👯Worked as Team Leader on Collaborative Project [hard-mist-4433](https://cerulean-starship-093f7d.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://rashmigautam16.github.io/](https://rashmigautam16.github.io/)
