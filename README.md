@@ -10,12 +10,10 @@
 - 🔭 I’m currently working on **Safe Passage International** Project
 
 - 🌱 Tech Stack: **React.js | React-Redux | TypeScript | Node.js | Express | SQL**
-  
-- 👯Worked as Team Leader on Collaborative Project [hard-mist-4433](https://cerulean-starship-093f7d.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://rashmigautam16.github.io/](https://rashmigautam16.github.io/)
+- 👨‍💻 Few of my projects are available at [https://rashmigautam16.github.io/](https://rashmigautam16.github.io/)
 
-- 💬 Ask me about **React JS, JAVASCRIPT, CSS, HTML, React-Redux, TypeScript, NodeJs, Express, SQL**
+- 💬 Ask me about **React JS, JAVASCRIPT, CSS, HTML, React-Redux, TypeScript, NodeJs, SQL**
 
 - 📑 [Resume](https://github.com/Rashmigautam16/Rashmigautam16/files/10858765/fw19_0825-Rashmi-Gautam-Resume.pdf)
 
